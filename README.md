@@ -26,6 +26,17 @@
     * Comparison
     * Logical
     * Identity and Membership
-
+* ### Functions
+    * User defined
+    * Built-in
+* ### Decison Making
+    * if-else
+    * el-if
+    * Multiple conditions
+    * Nested Conditions
+* ### Loops
+    * While
+    * For
+    * Break and Continue
 
 
