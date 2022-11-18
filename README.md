@@ -28,7 +28,7 @@
     * Identity and Membership
 
 <details>
-<summary>Well</summary>
+<summary>Data Types</summary>
 + Data Types
     + Integers
     * Floating points
@@ -47,18 +47,6 @@
     * Tuples
     * Sets
     * Dictionary
-<details>
-<summary>Data Types</summary>
-
-
- <details>
- <summary>The other one</summary>
-
-   <details>
-   <summary>Ok, try this</summary>
-   You got me 😂
-   </details>
- </details>
 </details>
-</details>
+
 
