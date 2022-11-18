@@ -29,8 +29,8 @@
 
 <details>
 <summary>Well</summary>
-* Data Types
-    * Integers
++ Data Types
+    + Integers
     * Floating points
     * Boolean
     * Strings
