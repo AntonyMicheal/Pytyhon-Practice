@@ -13,7 +13,7 @@
         *   String methodes
         *   String formatiing
     * Lists
-        *   Indexing
+        * Indexing
         *   Negative indexing
         *   Sllicing
         *   List methodes
@@ -26,4 +26,4 @@
     * Comparison
     * Logical
     * Identity and Membership
-    
+
