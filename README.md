@@ -2,7 +2,7 @@
 
 ## Important Topics
 
-* Data Types
+* ### Data Types
     * Integers
     * Floating points
     * Boolean
@@ -20,7 +20,7 @@
     * Tuples
     * Sets
     * Dictionary
-* Operators
+* ### Operators
     * Arithmetic
     * Assignment
     * Comparison
