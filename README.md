@@ -27,26 +27,5 @@
     * Logical
     * Identity and Membership
 
-<details>
-<summary>Data Types</summary>
-+ Data Types
-    + Integers
-    * Floating points
-    * Boolean
-    * Strings
-        *   Indexing
-        *   Negative indexing
-        *   Sllicing
-        *   String methodes
-        *   String formatiing
-    * Lists
-        * Indexing
-        *   Negative indexing
-        *   Sllicing
-        *   List methodes
-    * Tuples
-    * Sets
-    * Dictionary
-</details>
 
 
