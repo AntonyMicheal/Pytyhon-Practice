@@ -1,0 +1,5 @@
+red
+Blue
+Orange
+Pink
+King

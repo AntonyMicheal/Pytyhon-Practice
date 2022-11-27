@@ -39,4 +39,19 @@
     * For
     * Break and Continue
 
+*  ### File Handling
+    * Opening
+    * Reading
+    * Writing
+    * Appending
+
+*  ### Libraries
+
+*  ### Projects
+    * Dice Rolling
+    * Hangman - Game
+    * Dictionary 
+    * Tic Tac Toe
+
+
 
